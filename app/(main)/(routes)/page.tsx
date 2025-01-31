@@ -1,9 +1,8 @@
-import { Button } from "@/components/ui/button"
 
 export default function Home() {
   return (
   <div>
-    <Button variant="teste">Click me</Button>
+    this is a protected route
   </div>
   );
 }
